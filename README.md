@@ -36,7 +36,7 @@
   ```
   - Open browser and type `http://localhost:3000/` to run this application on your local machine.
 
-  # Features :
+  ## Features:
 
   1. Used 'Express.js' to build server
 
